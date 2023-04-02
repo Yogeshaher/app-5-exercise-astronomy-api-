@@ -2,7 +2,7 @@ import requests
 import streamlit as st
 
 # Prepare API key and API url
-api_key = "Ngt6d9k6dY2f3BZRDdpgGzgClzjiwsFbQ42Aqfnv"
+api_key = "z34aBAuyY7bEb5akRlCs731mL0Ze9SQYu33xBYNO"
 url = "https://api.nasa.gov/planetary/apod?" \
       f"api_key={api_key}"
 
